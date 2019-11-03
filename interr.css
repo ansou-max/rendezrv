@@ -1,0 +1,28 @@
+#dive{
+    background-image:url(../hopital.jpg);
+}
+#input{
+
+    height: 25%;
+    width: 200%;
+    border-radius:none;
+}
+#selecte{
+
+    color: lawngreen;
+}
+#label{
+font-family: fantasy;
+}
+#para{
+    color: rgb(43, 161, 13) ;
+    font-family: inherit;
+}
+#di{
+    background-image: url(../rv/hopital.jpg) 
+
+}
+#table{
+    border-radius: 1px;
+}
+
